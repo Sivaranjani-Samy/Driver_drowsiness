@@ -4,4 +4,4 @@ Drowsiness is one of the underlying causes of car accidents, which contribute to
 Work flow of the Proposed system
 
 
-![Screenshot_20230113_225716](https://user-images.githubusercontent.com/121639970/212382086-51af1bfb-ed5f-4e8c-972f-689d795dcd9c.png)
+![Screenshot_20230113_232758](https://user-images.githubusercontent.com/121639970/212388549-b7714ded-6255-492c-b53c-6c3b24923093.png)
